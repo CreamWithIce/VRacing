@@ -8,8 +8,8 @@ Installation
 
 NOTE: Unity 2023.1.01f was used for development with android SDK installed to build to the Meta Quest 2 headset.
 
-1. Clone the repository using the command:
-    >git clone
+1. Clone the repository using:
+    >git clone https://github.com/CreamWithIce/VRacing.git
 
 
 1. Install unity 2023.1.01f (or check your unity version will work) with the android SDK
