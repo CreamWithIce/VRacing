@@ -48,7 +48,7 @@ Controls
 | Grab wheel | Both hands required to turn the wheel |
 | Decelerate | Makes the car brake |
 | Accelerate | Moves car move forward|
-| Unroll car | If the car rolls over. press this to righten it |
+| Unroll car | If the car rolls over, press this to righten it |
 | Toggle reverse | Makes the wheels spin forward or backward if toggled |
 
 License
