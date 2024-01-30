@@ -1,12 +1,14 @@
 <h1 style = "text-align: center"> VRACING</h1>
 <p style="text-align: center"> 
 A VR racing game developed for a VR class for the Meta Quest 2
-This game could not have been developed without my friend in creating this project [Fury-Master](https://github.com/Fury-Master)
+This game could not have been developed without my friend in creating this project
 </p>
+
+## Credit
+This game could not have been developed without collaborating with my friend [Fury Master](https://github.com/Fury-Master/)
 
 Installation
 ---
-
 NOTE: Unity 2023.1.01f was used for development with android SDK installed to build to the Meta Quest 2 headset.
 
 1. Clone the repository using:
